@@ -17,7 +17,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Brototype  
+- 🔭 I’m currently working as Freenlancer  
   
 
 - 🌱 I’m currently learning Micro-services with node js  
@@ -25,8 +25,6 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td><td valign="top" width="50%">
