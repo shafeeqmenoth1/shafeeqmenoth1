@@ -17,7 +17,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as Freenlancer  
+- 🔭 I’m currently working as Full stack Developer  
   
 
 - 🌱 I’m currently learning Micro-services with node js  
