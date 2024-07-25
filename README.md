@@ -1,6 +1,6 @@
 
 
-## Hey 👋, I'm Shafeeq Menoth!  
+## Hey 👋, I'm Shafeeq Menoth! a full-time full-stack developer 👨‍💻 working since 2021 🚀
   
 
 <a href="https://linkedin.com/in/shafeeqmenoth" target="_blank">
